@@ -412,6 +412,7 @@ p {
   transition: background-color 0.3s ease;
   margin-bottom: 100px;
   text-decoration: none;
+  text-align: center;
 }
 .header__button:hover {
   background-color: #F14129;
